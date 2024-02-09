@@ -1,16 +1,17 @@
-### Hi there 👋
+# Education
 
-<!--
-**SuperPeterl/superpeterl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Khon Kaen University, Khon Kaen, Thailand
 
-Here are some ideas to get you started:
+Bachelor of Computer Science, Aug 2021 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The Department of Computer Science, College of Computing
+
+nueafa.p@kkumail.com
+
+# Skills
+
+- Languages: Python, SQL, Java, HTML, CSS, JavaScript
+- Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Git, GitHub, Google Colab, Docker
+- Data Science: Data cleaning, preprocessing, exploration, modeling, evaluation, interpretation, presentation, collaboration, problem-solving, critical thinking, creativity
+- Languages: English, Thai
+
