@@ -8,7 +8,7 @@ Khon Kaen University, Khon Kaen, Thailand
 Bachelor of Computer Science, Aug 2021 - Present
 
 The Department of Computer Science, College of Computing
-- Languages: English, Thai
+Languages: English, Thai
 
 <h3 align="left">Connect with me:</h3>
 nueafa.p@kkumail.com
