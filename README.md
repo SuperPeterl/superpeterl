@@ -12,6 +12,7 @@ The Department of Computer Science, College of Computing
 Languages: English, Thai
 
 <h3 align="left">MyColabWork</h3>
+TrafftyFondueReportClassificationTranfomer https://colab.research.google.com/drive/1N7oDF8KyAzL601KCiCKFZBXhZiJKqIZ1?usp=sharing
 HandWrittingSynthesisLSTM https://colab.research.google.com/drive/1mXKSk8FTw2y5_Q1dwEj8-Ge14hyNQ-uU?usp=sharing
 ImageClassificationUsingCNN https://colab.research.google.com/drive/13ij8Pjn-33IyBmkywVBxN-OFvQUuTaIO?usp=sharing
 EnsembleModelClassificationbydemodata https://colab.research.google.com/drive/1RuBm5eYg9cjCnCv15Os6ZzwZZXJlKjkR?usp=sharing
